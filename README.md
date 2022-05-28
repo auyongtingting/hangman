@@ -28,7 +28,7 @@ The user will be directed to this page upon running the application successfully
 Based on the chosen programming language that has been randomly picked by an algorithm. It will display the number of letters (not unique) of that programming language. (e.g., CSS has 3 letters)
 
 <p align="center">
-  <img src="img/picture_1.png" width="500" height="300"/>
+  <img src="img/picture_1.png" width="500" height="500"/>
  </p>
 
 The user will have to make a guess and click on the respective letters. If the user would like to skip this round, the user can proceed to click on “Next Round”.

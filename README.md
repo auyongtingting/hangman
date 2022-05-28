@@ -36,25 +36,25 @@ The user will have to make a guess and click on the respective letters. If the u
 Upon making the correct guess, the key will be faded and the correct letter will be displayed above.
 
 <p align="center">
-  <img src="img/picture_2.png" width="500" height="300"/>
+  <img src="img/picture_2.png" width="500" height="500"/>
  </p>
 
 Based on the display, the user can continue to analyze and think of any relevant programming language.
 
 <p align="center">
-  <img src="img/picture_3.png" width="500" height="300"/>
+  <img src="img/picture_3.png" width="500" height="500"/>
  </p>
 
 However, if the user made a wrong guess and clicked on the wrong letter. There will be a new stroke shown and be counted in the wrong guesses.
 
 <p align="center">
-  <img src="img/picture_4.png" width="500" height="300"/>
+  <img src="img/picture_4.png" width="500" height="500"/>
  </p>
 
 Upon making the correct guess, it displays “You won!!!”.
 
 <p align="center">
-  <img src="img/picture_5.png" width="500" height="300"/>
+  <img src="img/picture_5.png" width="500" height="500"/>
  </p>
 
 Upon making the wrong guess, it displays “Better luck next time!”.

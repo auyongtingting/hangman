@@ -13,8 +13,10 @@ Step 2: Open up the file in Visual Studio Code.
 Step 3: You will need to ensure that you have both npx and Node.js installed. After which, you can access the file with Visual Studio Code.
 Step 4: In the main project directory, enter the following command in the terminal of Visual Studio Code.
 > npm install
+
 Step 5: Once the installation has been completed, you can proceed to enter the following command to run the application.
 > npm run start
+
 Step 6: You may access the application through http://localhost:3000/.
 
 # How to Use the Application 

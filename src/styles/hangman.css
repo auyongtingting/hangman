@@ -1,0 +1,79 @@
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 60px;
+}
+
+.Hangman { 
+    width: 80%;
+    margin-top: 50px; 
+}
+
+.hangmanFigure {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px;
+    
+}
+
+.NumWrongGuesses {
+    font-size: 20px;
+    text-align: right;
+    padding-top: 20px;
+}
+
+.subtitle {
+    font-size: 20px;
+}
+
+.nextButton {
+    height: 50px;
+    width: 180px;
+    border-radius: 20px;
+    background-color: black;
+    border-color: grey;
+    color: white;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.nextButton:hover {
+    background-color: white;
+    color: black;
+    font-size: 20px;
+}
+
+.letterButtons {
+    height: 50px;
+    width: 50px;
+    border-radius: 20px;
+    background-color: black;
+    border-color: grey;
+    color: white;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.letterButtons:hover {
+    background-color: white;
+    color: black;
+    font-size: 20px;
+}
+
+.randomWord {
+    font-size: 40px;
+}
+
+.win { 
+    font-size: 20px;
+    color: green;
+}
+
+.lose { 
+    font-size: 20px;
+    color: red;
+}

@@ -33,7 +33,7 @@ The user will have to make a guess and click on the respective letters. If the u
 
 Upon making the correct guess, the key will be faded and the correct letter will be displayed above.
 
-<img src="/path/to/img.jpg" alt="Alt text" title="Optional title">
+<img src="../img/Picture 1.png" alt="Alt text" title="Optional title">
 
 Based on the display, the user can continue to analyze and think of any relevant programming language.
 
@@ -51,11 +51,11 @@ Upon making the wrong guess, it displays “Better luck next time!”.
 
 If the user would like to proceed to the next round. The user can click on the button “Next Round”.
 
+------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- 
 
 ## Available Scripts
 

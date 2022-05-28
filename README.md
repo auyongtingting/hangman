@@ -27,28 +27,35 @@ The user will be directed to this page upon running the application successfully
 
 Based on the chosen programming language that has been randomly picked by an algorithm. It will display the number of letters (not unique) of that programming language. (e.g., CSS has 3 letters)
 
-<img src="/path/to/img.jpg" alt="Alt text" title="Optional title">
 <p align="center">
-  <img src="img/picture_1.png" width="700"/>
+  <img src="img/picture_1.png" width="500" height="300"/>
  </p>
 
 The user will have to make a guess and click on the respective letters. If the user would like to skip this round, the user can proceed to click on “Next Round”.
 
 Upon making the correct guess, the key will be faded and the correct letter will be displayed above.
 
-<img src="../img/Picture 1.png" alt="Alt text" title="Optional title">
+<p align="center">
+  <img src="img/picture_2.png" width="500" height="300"/>
+ </p>
 
 Based on the display, the user can continue to analyze and think of any relevant programming language.
 
-<img src="/path/to/img.jpg" alt="Alt text" title="Optional title">
+<p align="center">
+  <img src="img/picture_3.png" width="500" height="300"/>
+ </p>
 
 However, if the user made a wrong guess and clicked on the wrong letter. There will be a new stroke shown and be counted in the wrong guesses.
 
-<img src="/path/to/img.jpg" alt="Alt text" title="Optional title">
+<p align="center">
+  <img src="img/picture_4.png" width="500" height="300"/>
+ </p>
 
 Upon making the correct guess, it displays “You won!!!”.
 
-<img src="/path/to/img.jpg" alt="Alt text" title="Optional title">
+<p align="center">
+  <img src="img/picture_5.png" width="500" height="300"/>
+ </p>
 
 Upon making the wrong guess, it displays “Better luck next time!”.
 

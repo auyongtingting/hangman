@@ -1,9 +1,50 @@
-This project is, HangOrSurvive targets users who are fond of playing hangman and have knowledge of the different types of programming languages. Each user is allowed to do the stipulated actions as stated below. 
+This project is, **HangOrSurvive** targets users who are fond of playing hangman and have knowledge of the different types of programming languages. Each user is allowed to do the stipulated actions as stated below. 
 
 |               |  Description  |
 | ------------- | ------------- |
 |     User      | Able to guess the letters of the chosen programming languages by clicking on the keys  |
 | Content Cell  | Able to skip to another round if he/she gives up on trying that specific round  |
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). In addition, there were icons utilized from [Create React App](https://react-icons.github.io/react-icons/). 
+
+# Getting Started with HangOrSurvive
+Step 1: Download the file and unzip it.
+Step 2: Open up the file in Visual Studio Code.
+Step 3: You will need to ensure that you have both npx and Node.js installed. After which, you can access the file with Visual Studio Code.
+Step 4: In the main project directory, enter the following command in the terminal of Visual Studio Code.
+> npm install
+Step 5: Once the installation has been completed, you can proceed to enter the following command to run the application.
+> npm run start
+Step 6: You may access the application through http://localhost:3000/.
+
+# How to Use the Application 
+The user will be directed to this page upon running the application successfully. If not, the user may access the application through http://localhost:3000/.
+
+Based on the chosen programming language that has been randomly picked by an algorithm. It will display the number of letters (not unique) of that programming language. (e.g., CSS has 3 letters)
+
+<img src="/path/to/img.jpg" alt="Alt text" title="Optional title">
+
+The user will have to make a guess and click on the respective letters. If the user would like to skip this round, the user can proceed to click on “Next Round”.
+
+Upon making the correct guess, the key will be faded and the correct letter will be displayed above.
+
+<img src="/path/to/img.jpg" alt="Alt text" title="Optional title">
+
+Based on the display, the user can continue to analyze and think of any relevant programming language.
+
+<img src="/path/to/img.jpg" alt="Alt text" title="Optional title">
+
+However, if the user made a wrong guess and clicked on the wrong letter. There will be a new stroke shown and be counted in the wrong guesses.
+
+<img src="/path/to/img.jpg" alt="Alt text" title="Optional title">
+
+Upon making the correct guess, it displays “You won!!!”.
+
+<img src="/path/to/img.jpg" alt="Alt text" title="Optional title">
+
+Upon making the wrong guess, it displays “Better luck next time!”.
+
+If the user would like to proceed to the next round. The user can click on the button “Next Round”.
 
 # Getting Started with Create React App
 

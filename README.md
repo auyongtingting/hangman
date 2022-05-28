@@ -5,7 +5,7 @@ This project, **HangOrSurvive** targets users who are fond of playing hangman an
 |     User      | Able to guess the letters of the chosen programming languages by clicking on the keys  |
 | Content Cell  | Able to skip to another round if he/she gives up on trying that specific round  |
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). In addition, there were icons utilized from [Create React App](https://react-icons.github.io/react-icons/). 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). In addition, there were icons utilized from [React-Icons](https://react-icons.github.io/react-icons/). 
 
 # Getting Started with HangOrSurvive
 Step 1: Download the file and unzip it.

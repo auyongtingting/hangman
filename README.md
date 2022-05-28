@@ -1,3 +1,10 @@
+This project is, HangOrSurvive targets users who are fond of playing hangman and have knowledge of the different types of programming languages. Each user is allowed to do the stipulated actions as stated below. 
+
+|               |  Description  |
+| ------------- | ------------- |
+|     User      | Able to guess the letters of the chosen programming languages by clicking on the keys  |
+| Content Cell  | Able to skip to another round if he/she gives up on trying that specific round  |
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

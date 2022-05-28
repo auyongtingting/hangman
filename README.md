@@ -1,4 +1,4 @@
-This project is, **HangOrSurvive** targets users who are fond of playing hangman and have knowledge of the different types of programming languages. Each user is allowed to do the stipulated actions as stated below. 
+This project, **HangOrSurvive** targets users who are fond of playing hangman and have knowledge of the different types of programming languages. Each user is allowed to do the stipulated actions as stated below. 
 
 |               |  Description  |
 | ------------- | ------------- |
@@ -9,8 +9,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Getting Started with HangOrSurvive
 Step 1: Download the file and unzip it.
+
 Step 2: Open up the file in Visual Studio Code.
+
 Step 3: You will need to ensure that you have both npx and Node.js installed. After which, you can access the file with Visual Studio Code.
+
 Step 4: In the main project directory, enter the following command in the terminal of Visual Studio Code.
 > npm install
 
@@ -51,6 +54,8 @@ If the user would like to proceed to the next round. The user can click on the b
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- 
 
 ## Available Scripts
 
